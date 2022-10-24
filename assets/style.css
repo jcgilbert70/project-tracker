@@ -1,0 +1,29 @@
+:root {
+    --dark: rgb(8, 20, 85);
+}
+
+
+.jumbotron {
+    background-color: var(--dark);
+    text-align: center;
+    color: white;
+    padding:15px;
+    border-radius: 0px;
+    margin-bottom: 18px;
+}
+
+.title {
+    padding: 5px;
+    margin: 0px;
+}
+
+.subtitle {
+    padding: 5px 0px 0px 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+#dateTime {
+    padding: 0px 0px 5px 0px;
+    margin: 0px;
+    font-weight: bold;
+}
